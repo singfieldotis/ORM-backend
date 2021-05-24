@@ -5,6 +5,8 @@
   ## Description 
   
   This project will demonstrate my ability to use SQL to manipulate multiple databases. Ability for users to add, update, end delete products, tags, and categories from the ecomm site. 
+
+  Here is a video demo of the application -- 
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
